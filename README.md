@@ -1,16 +1,6 @@
-# i_love_pakistan
+# I Love Pakistan
+A simple app to practice what I have learned from flutter course.
 
-A new Flutter project.
+![App Screenshot](https://raw.githubusercontent.com/MuaazShoaib/i_love_pakistan/main/screenshots/i_love_pakistan_app_screenshot.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Icon](https://raw.githubusercontent.com/MuaazShoaib/i_love_pakistan/main/screenshots/i_love_pakistan_app_icon.jpg)
